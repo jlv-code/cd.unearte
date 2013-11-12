@@ -1,0 +1,18 @@
+/*
+Theme Name: New Illusion
+Theme URI: https://github.com/jlv-code/cd.unearte
+Author: José Viéitez
+Author URI: http://jlvme.wordpress.com
+Description: This is the Wordpress Theme for Centro de Documentaciones de UNEARTE
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: unearte, theme, tema, centro de documentaciones
+Text Domain: cdunearte
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
